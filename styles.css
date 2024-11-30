@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Calligraffitti&family=Open+Sans:wght@400;700&display=swap");
 
 :root {
-  --bg-clr: #6b7fba;
+  --bg-clr: #e4e0e1;
   --white: #fff;
-  --rleft-bg: #9ab3eb;
-  --rright-bg: #8096d0;
-  --primary-text-clr: #525252;
+
+  --rleft-bg: #5d1451;
+  --rright-bg: #aa5486;
 }
 
 * {
